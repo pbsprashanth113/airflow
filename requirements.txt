@@ -1,2 +1,3 @@
 astro-sdk-python[amazon,databricks,duckdb,google,postgres,snowflake]==1.5.3
 
+airflow-provider-cube==0.0.1
